@@ -10,7 +10,7 @@ const inter = Inter({
 
 const siteName = "Muhamad Rezka Al Anshori";
 const description =
-  "Fresh graduate software developer focused on building clean, reliable web applications. Explore my projects, stack, and background.";
+  "Fresh Graduate in Informatics Engineering with a strong interest in technology and continuous learning. Passionate about solving problems, exploring new technologies, and improving technical skills through hands-on projects and real-world experiences.";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://muhamadrezka.dev"),
