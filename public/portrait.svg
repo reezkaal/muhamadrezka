@@ -1,0 +1,8 @@
+<svg width="720" height="900" viewBox="0 0 720 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="900" fill="#F3F4F6"/>
+  <rect x="0.5" y="0.5" width="719" height="899" fill="none" stroke="#E5E7EB"/>
+  <circle cx="360" cy="360" r="140" fill="#E5E7EB"/>
+  <circle cx="360" cy="330" r="80" fill="#D1D5DB"/>
+  <path d="M200 900 C200 720 260 620 360 620 C460 620 520 720 520 900 Z" fill="#D1D5DB"/>
+  <text x="360" y="820" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#9CA3AF">Replace with your portrait</text>
+</svg>
