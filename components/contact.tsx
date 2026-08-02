@@ -39,10 +39,10 @@ export function Contact() {
             Contact
           </p>
           <h2 className="mt-3 text-[30px] font-semibold tracking-tightest text-foreground md:text-[36px]">
-            Let's Connect.
+            Let&apos;s Connect.
           </h2>
           <p className="mt-4 text-[16px] leading-[1.7] text-muted">
-            I'm always open to connecting with new people,
+            I&apos;m always open to connecting with new people,
              discussing opportunities, and learning through meaningful conversations and collaborations.
           </p>
         </motion.div>
